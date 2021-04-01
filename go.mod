@@ -1,4 +1,4 @@
-module personal-weather-back-end
+module basic-go-lang-rest-api-001
 
 go 1.16
 
